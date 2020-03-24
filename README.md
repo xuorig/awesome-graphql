@@ -21,7 +21,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Kotlin](#lib-kotlin)
 	- [C/C++](#lib-c)
 	- [Go](#lib-go)
-	- [Scala](#lib-scala)
+	- [Scala](#lib-scal 
 	- [.NET](#lib-dotnet)
 	- [Elixir](#lib-elixir)
 	- [Haskell](#lib-haskell)
